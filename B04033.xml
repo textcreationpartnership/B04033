@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life of Monsieur l'Arroque</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04033</idno><idno type="EEBO-CITATION">51617595</idno>
+  <idno type="VID">175282</idno>
+  <idno type="EEBO-PROQUEST">2240909148</idno>
+  
+            <idno type="STC">Wing L2035A</idno>
+            <idno type="STC">ESTC R179945</idno>
+            <idno type="OCLC">51617595</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175282)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2726:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life of Monsieur l'Arroque</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Suggested place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Larroque, Matthieu de, 1619-1684.</term>
+               <term type="topical_term">Protestants --  France --  Biography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="biography">
+            <pb n="1" facs="tcp:175282:1"/>
+            <head>THE LIFE OF Monsieur L'ARROQUE.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is with very great displeasure that I insert in my first Essay of this nature, an Elogie, which never<g ref="char:EOLhyphen"/>theless will render it very accept<g ref="char:EOLhyphen"/>able; I had much rather have wanted so good a Subject of Re<g ref="char:EOLhyphen"/>commendation to my first under<g ref="char:EOLhyphen"/>taking, than to have obtain'd it by suffering so great a loss: But seeing Death will not be subject unto our desires, let us acquit our selves ac<g ref="char:EOLhyphen"/>cording to the various conjunctures, whether they be pleasing of not.</p>
+            <p>Monsieur <hi>L'ARROQƲE</hi> departed this Life at <hi>Roven,</hi> the 31 of <hi>January</hi> 1684, Aged 65 years, born at <hi>Lairac,</hi> a Town not far from <hi>Agen</hi> in <hi>Guien,</hi> his Father and Mo<g ref="char:EOLhyphen"/>ther dying almost at the same time, left him very young, under the Conduct of his Relations, and which is the
+<pb n="2" facs="tcp:175282:2"/>common Fate of Scholars, without much Wealth; but his great love for Learning comforted him in the midst of all his Troubles: Having made some progress therein under several Masters, he advanced the same consider<g ref="char:EOLhyphen"/>ably in the Academy of <hi>Montauban,</hi> and having apply<g ref="char:EOLhyphen"/>ed himself unto the study of Divinity under Messieurs <hi>Charles,</hi> and <hi>Garrisoles,</hi> eminent Professors, who also had at the same time the famous Monsieur <hi>Claud</hi> to be their Pupil, in a short time he there made so great a progress in his studies, that he was judged worthy of the Ministry: He was accordingly admitted betimes, and by the Synod of <hi>Guyen,</hi> sent unto a little Church, called <hi>Poujols:</hi> He had scarce been there one year, but the Gentlemen of the Church of <hi>Rome</hi> opposed his Ministry, which oblig<g ref="char:EOLhyphen"/>ed him to make a Journey to <hi>Paris:</hi> He there became accquainted with Messieurs Le <hi>Faucheur,</hi> and <hi>Mestrezat;</hi> who from that very time prophesi'd very advantagiously of him. He preached at <hi>Charanton</hi> with great Success, and was so well approved by the late lady Dutchess of <hi>Tremouile,</hi> that she desired he might be setl'd at the Church of <hi>Vitry</hi> in <hi>Britany,</hi> where she commonly made her re<g ref="char:EOLhyphen"/>sidence. For several reasons he consented unto the de<g ref="char:EOLhyphen"/>mands of this Princess, and went to <hi>Vitry,</hi> where he liv'd 26 years, so confin'd unto his Closet, that he there<g ref="char:EOLhyphen"/>in spent 14 or 15 hours each day.</p>
+            <p>The world soon became sensible of his great industry, by a Treatise which Monsieur <hi>L'ARROQƲE</hi> published against a Minister, who having chang'd his Religion, caused to be Printed the motives which induced him thereunto. By this Answer it was seen the Author had already attained great knowledge in Antiquity, joyned with a very solid and clear way of reasoning, which was ever the character of the late Monsieur <hi>L'AR<g ref="char:EOLhyphen"/>ROQƲES</hi> Genius. Some years after, <hi>scil.</hi> in the year 1665, he made a very learned Answer unto the Book of the Office of the holy Sacrament, written by the Gentlmen
+<pb n="3" facs="tcp:175282:2"/>of <hi>Port Royal,</hi> wherein he shewed unto those Illustrious Friars, that they had alledged and translated the passages of Antient Fathers, either very negligently, or very falsly. His History of the <hi>EƲCHARIST</hi> (which may well be term'd his Master-piece) appeared four years af<g ref="char:EOLhyphen"/>ter, and did fully manifest the merits of this Excellent Person. Having compos'd so many Learn'd Volums, the Protestants of <hi>Paris,</hi> looked upon him as a Subject very worthy of their choice, and resolved to establish him in the midst of them; this honest design had been accomplish'd, had not his credit, and adhering unto the Interests of two Illustrious Persons, whose names are suf<g ref="char:EOLhyphen"/>ficiently known, incited some envious<note n="*" place="margin">Busy Jesuits.</note> Persons to prepos<g ref="char:EOLhyphen"/>sess the King with prejudice against him. By this means they obtained an Injunction of not proceeding to this no<g ref="char:EOLhyphen"/>mination. The Marquess <hi>de Ruvigny</hi> appeared at Court in this affair, and ingag'd himself unto the King for Monsiuer <hi>L'ARROQƲES</hi> Zeal and Fidelity in his Maje<g ref="char:EOLhyphen"/>sties Service. The King (who is naturally inclin'd to goodness) thereupon answer'd the Marquess <hi>de Ruvigny</hi> the Deputy General, that some went about to give him other impressions of Monsieur <hi>L'ARROQƲE,</hi> but seeing he would be Caution for the party accus'd, he would per<g ref="char:EOLhyphen"/>mit this Minister to Exercise his profession in any other place, excepting <hi>Paris.</hi>
+            </p>
+            <p>A business of this moment made as great noise as could be imagin'd, but did not prejudice Monsieur <hi>L'ARROQƲE,</hi> as much as his Enemies could have wished; for soon after he was sought unto by several considerable Churches, but he accepted of none, but the proposal which was made unto him by that of <hi>Saumur.</hi> The Church and the Aca<g ref="char:EOLhyphen"/>demy were then vacant, both of a Minister and of a Pro<g ref="char:EOLhyphen"/>fessor in Divinity; he was offer'd both, but whether it was through modesty, or that he desired not to vary from his former kind of Study, much different from that to be perform'd by a Professor in Divinity, he only accepted the
+<pb n="4" facs="tcp:175282:3"/>former. As he was preparing to enter upon it, the In<g ref="char:EOLhyphen"/>tendant of the Province appear'd against it, for what rea<g ref="char:EOLhyphen"/>son is not known. The Consistory of the Church of <hi>Sau<g ref="char:EOLhyphen"/>mur</hi> us'd such Arguments to remove this Opposition, that in fine it was removed. Nevertheless Monsieur <hi>L'AR<g ref="char:EOLhyphen"/>ROQƲE</hi> thought it not convenient to accept the offer, be<g ref="char:EOLhyphen"/>ing so advis'd by Monsieur <hi>Conrart,</hi> for whom he had a singular kindness, who represented unto him, that the Intendant would always bear him a grudge, and that therefore it would not be safe to be under his power.</p>
+            <p>The Counsel of this incomparable Friend induced Mon<g ref="char:EOLhyphen"/>sieur <hi>L'ARROQƲE</hi> to incline unto other offers, made un<g ref="char:EOLhyphen"/>to him at that time from divers places. The Church of <hi>Montauban,</hi> that of <hi>Bourdeaux,</hi> and that of <hi>Roven</hi> de<g ref="char:EOLhyphen"/>sir'd to have him for their Minister; he preferr'd the lat<g ref="char:EOLhyphen"/>ter before the two others, by the advice of Friends, he accordingly went to <hi>Roven,</hi> there to Exercise his Mi<g ref="char:EOLhyphen"/>nistry, and there 'twas that improving the rare Talents that God had endowed him with, he labour'd until his Death in the conversion of Souls, and in explaining the holy Scriptures with indefatigable diligence and Indust<g ref="char:EOLhyphen"/>ry. <hi>Roven</hi> was a place very convenient for such a per<g ref="char:EOLhyphen"/>son, for 'tis a City abounding with great wits, and well furnish'd with good Libraries: He there acquired a great reputation amongst the learned Men, even of the Contrary party; And the Illustrious Monsieur <hi>Bigot,</hi> at whose House they Assemble once a week, and entertain curious and learned discourse, was very well pleas'd to have Monsieur <hi>L'ARROQƲE</hi> of the number, who also went unto their Assembly, where his profound Know<g ref="char:EOLhyphen"/>ledg in Ecclesiastical History, was much admired and esteem'd by them all.</p>
+            <p>A little after his coming to <hi>Roven,</hi> Monsieur <hi>David,</hi> so well known amongst the learned for his great Literature, and by his contests with Messieurs <hi>de Marca, Justel,</hi> and <hi>de Launay,</hi> carped at him about one of the two Latin
+<pb n="5" facs="tcp:175282:3"/>Dissertations which he publish'd in the year 1670. and dedicated unto Monsieur <hi>d' Amproux,</hi> Councellor in the Parliament of <hi>Paris,</hi> whose Wit, Probity and Learning are esteem'd by all who know him. Monsieur <hi>L'AR<g ref="char:EOLhyphen"/>ROQƲE</hi> had refuted the Opinion of Father <hi>Petau,</hi> touch<g ref="char:EOLhyphen"/>ing the time of the Birth and Condemnation of the History of <hi>Photin.</hi> His Reasons appeared very solid un<g ref="char:EOLhyphen"/>to a great many, but Monsieur <hi>David,</hi> who other ways was well satisfi'd Father <hi>Petau</hi>'s <hi>Epoch</hi> was wrong, fanci'd that Monsieur <hi>L'ARROQƲE</hi> had not sufficiently refuted it, therefore took occasion to write against him, which was the cause of Monsieur <hi>L'ARROQƲES</hi> reply, which he dedicated unto Monsieur <hi>Conrart,</hi> an intimate Friend to them both.</p>
+            <p>Since which time this learned Minister hath publish'd divers excellent Treatises on several Subjects. He wrote one, intituled, <hi>Considerations upon the Nature of the Church;</hi> Another much larger, wherein he shews the conformity of the Discipline of the Protestants of <hi>France,</hi> with that of the Primitive Church. Another in Latin, in defence of the Sentiments of Monsieur <hi>Daille</hi> touching St▪ <hi>Ignatius</hi> his Letters, and the Apostolical Constitutions, against Messieurs <hi>Pearson,</hi> and <hi>Beverige,</hi> two famous English Doctors. They have writ a second time in defence of their Opinion, and he had designed a Reply, as hath been seen by a Manuscript Copy found near finish'd amongst his Papers, but at the request of some persons favouring Episcopacy, he did not finish his An<g ref="char:EOLhyphen"/>swer. The last work he publish'd is an Answer unto a Treatise of the Bishop of <hi>Meaux,</hi> of the Communion under both kinds; although his name was not to it, yet it was judged to be his; it was known by the manner in which it was written, clear, free from digressions and superfluous Ornaments, and full of solid remarks drawn from the profoundest Antiquity.</p>
+            <pb n="6" facs="tcp:175282:4"/>
+            <p> But how great an Idea soever the printed Works of the late Monsieur <hi>L'ARROQƲE</hi> gives us of the greatness and Exactness of his Wisdom, it may be termed but small, in comparison of what would have been seen if God had been pleas'd to have spared him to finish what he had begun; he being esteemed one of the fittest men of <hi>France</hi> to compose an Ecclesiastical History, all his Friends in<g ref="char:EOLhyphen"/>treated him to set about it, and accordingly he labour'd effectually therein with all diligence; He intended to have published one Volume every year, and to have joyned thereunto sundry dissertations, which would e<g ref="char:EOLhyphen"/>qually have demonstrated his sincerity and his learning; He had carry'd on his work but unto the middle of the fourth Century, which is the only thing the publick will not lose of so vast and rich a Structure. There was also found amongst his Papers a very exact Treatise of the <hi>Regale,</hi> wherein he proves, that the Kings of <hi>France</hi> since <hi>Clovis,</hi> had this Right over all the Cathedral Churches in their Kingdom. This with some other small Tracts, which this Illustrious person had finish'd before his Death, may make a compleat Volume; Monsieur <hi>L'ARROQƲE</hi> the worthy Son of such a Father, will be careful of com<g ref="char:EOLhyphen"/>municating them unto the World.</p>
+            <p>But he confines not himself only thereunto, he pro<g ref="char:EOLhyphen"/>miseth also an Exact Collection of all the Dissertations which he hath found in the History of the first 350 years of the Church, and he intends to publish them in Latin, for the benefit of Strangers. Every body will be glad to hear this News, especially if we add somwhat touch<g ref="char:EOLhyphen"/>ing the particulars of this Collection. Therefore I now give notice that therein will be seen, Dissertations 1. Upon the thundering Legion, where shall be shewn, that what hath been said of it, is very uncertain. 2. Up<g ref="char:EOLhyphen"/>on the original of shaving of Priests. 3. <hi>De Orariis.</hi> 4. Of the manner that the Clergy saluted the People, which shall serve to explain this passage of St. <hi>Cyprian,</hi> in re<g ref="char:EOLhyphen"/>gard
+<pb n="7" facs="tcp:175282:4"/>of <hi>Aurelius,</hi> whom he designed to ordain Reader, <hi>Dominico interim legit nobis, id est, auspicatus est pacem, dicit, dedicat lectionem,</hi> which Mr <hi>Rigaut</hi> did not under<g ref="char:EOLhyphen"/>stand, no more than Mr <hi>Lombert,</hi> who followed the Sen<g ref="char:EOLhyphen"/>timent of Mr <hi>Rigaut,</hi> in the fair and exact Translation, which he hath given us of this Father. 5. Upon the Letter of the Council of <hi>Antioch,</hi> which condemned <hi>Paul</hi> of <hi>Samosatia.</hi> 6. Upon the Tenth persecution, which shall be found more exactly describ'd than in all the for<g ref="char:EOLhyphen"/>mer Histories, because Monsieur <hi>L'ARROQƲE</hi> hath bor<g ref="char:EOLhyphen"/>row'd great helps from <hi>Lactantius</hi> his Treatise <hi>de Mor<g ref="char:EOLhyphen"/>tibus Persecutorum,</hi> published of late by Mr <hi>Baluze.</hi> 7. <hi>De Sacerdotibus secundi Ordinis, &amp; Archidiaconis.</hi> 8. <hi>De Ordinibus ex quibus Episcopi sumebantur.</hi> 9. <hi>De Epistolis Tractoriis.</hi> 10. <hi>De Natura veteris Ecclesiae.</hi> 11. <hi>De Energumenis,</hi> &amp;c.—12. <hi>De Paenitentibus eorum{que} gradibus.</hi> 13. <hi>De Antiquo ritu dimittendi ab Ecclesia, Catechumenos, Energumenos, &amp; paenitentes.</hi> 14. <hi>De dupli<g ref="char:EOLhyphen"/>ti Catechumenorum genere.</hi> 15. <hi>De tempore quo obtinere caepit in Ecclesia orientali haec loquendi formula, EPISCO<g ref="char:EOLhyphen"/>PƲS DEI GRATIA, ET SEDES APOSTOLIC AE.</hi> 16. <hi>De pluralitate beneficiorum, ut vulgo loquuntur.</hi> 17. <hi>De Nudipedalibus.</hi> As he from whom we expect these pieces of Ecclesiastical History, is endow'd with much wit and learning, it needs not be fear'd that they will in his hands lose any thing of their luster and beauty.</p>
+            <p>All we have hitherto said, refers unto the Wisdom of Monsieur <hi>L'ARROQƲE,</hi> which indeed is a very vast and spacious Field; but should we speak of the qualities of his Soul, we should have much more matter to insist on. He had a Soul so sincere as is scarcely to be found in this Age; he without envy beheld the merits of other learned persons, and esteemed their good qualities; he was a great and strict observer of Discipline, and contented not himself to declaim in the Pulpit against Vice in ge<g ref="char:EOLhyphen"/>neral, but persecuted it in all places, running the hazard of
+<pb n="8" facs="tcp:175282:5"/>creating himself Enemies, by the security of his life; he preached by example and discover'd a true Christian Constancy in all the troubles of his life; he discharged his Duty with so much exactness, that he would never discontinue performing his Function during an Ague which held him ten Months, after his being call'd to <hi>Saumur;</hi> I say he would neither discontinue the Duties of his Ministry, nor those of his studies, although the Physi<g ref="char:EOLhyphen"/>tians told him, that a distemper which often had fits of 36 hours would not be removed, if he did not give himself some repose. The Troubles of the Churches of <hi>France</hi> these last years, were incomparably more grievous unto him, than any particular Afflictions unto his own Family could have been, and should these Misfortunes continue, what <hi>Cicero</hi> said of another, may be said of him; <hi>Ii rempublicam casus sequuti sunt, ut mihi non erepta L. Crasso a Diis immortalibus vita, sed donata mors esse videatur.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
